@@ -955,7 +955,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffe161;
+  background-color: #e43f3f;
 }
 .cid-sNCL2D3A4U button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1028,7 +1028,9 @@ a {
 }
 .cid-sN42lb9Uw2 {
   display: flex;
-  background-image: url("../../../assets/images/audio-g6ecf61518-1921-1920x1280.jpeg");
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-1920x1277.jpg");
 }
 .cid-sN42lb9Uw2 .mbr-overlay {
   background-color: #353535;
@@ -1045,7 +1047,7 @@ a {
     justify-content: center;
   }
   .cid-sN42lb9Uw2 .content-wrap {
-    width: 65%;
+    width: 47%;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
@@ -1068,6 +1070,7 @@ a {
 }
 .cid-sN42lb9Uw2 .mbr-section-title {
   text-align: center;
+  color: #e43f3f;
 }
 .cid-sNCQVyAOvS {
   padding-top: 6rem;
